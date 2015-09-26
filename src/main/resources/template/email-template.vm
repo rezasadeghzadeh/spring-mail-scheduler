@@ -1,0 +1,13 @@
+<html>
+<body>
+<div style="background-color: goldenrod;color: darkblue">
+    <h3>Hi ${user}, welcome to my class</h3>
+
+    <div >
+        Sent This email at ${at}
+
+        Your email address is <a href="mailto:${user}">${user}</a>.
+    </div>
+</div>
+</body>
+</html>
